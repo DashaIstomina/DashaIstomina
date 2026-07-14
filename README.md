@@ -1,17 +1,11 @@
-<h1 align="center">
+<h1 align="center" style="color: #4FC3F7;">
   Привет, меня зовут 
-  <a href="https://ваш_сайт_или_профиль" target="_blank" style="color: #1E90FF; text-decoration: none; border-bottom: 2px solid #1E90FF;">
+  <a href="https://ваш_сайт_или_профиль" target="_blank" style="color: #4FC3F7; text-decoration: none;">
     Дарья
   </a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Я системный аналитик</h3>
-
-<div align="center">
-  <a href="https://t.me/dasha_istomina">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
+<h3 align="center" style="color: #4FC3F7;">Я системный аналитик</h3>
 
 **Обо мне:**  
 💻 Системный аналитик  
