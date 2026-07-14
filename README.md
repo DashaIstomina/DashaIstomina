@@ -1,6 +1,11 @@
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Дарья</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я системный аналитик </h3>
+<h1 align="center">
+  Привет, меня зовут 
+  <a href="https://ваш_сайт_или_профиль" target="_blank" style="color: #4FC3F7; text-decoration: none; border-bottom: 2px solid #4FC3F7;">
+    Дарья
+  </a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">Я системный аналитик</h3>
 
 <div align="center">
   <a href="https://t.me/dasha_istomina">
