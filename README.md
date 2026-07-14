@@ -1,6 +1,6 @@
 <h1 align="center">
   Привет, меня зовут 
-  <a href="https://ваш_сайт_или_профиль" target="_blank" style="color: #4FC3F7; text-decoration: none; border-bottom: 2px solid #4FC3F7;">
+  <a href="https://ваш_сайт_или_профиль" target="_blank" style="color: #1E90FF; text-decoration: none; border-bottom: 2px solid #1E90FF;">
     Дарья
   </a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
