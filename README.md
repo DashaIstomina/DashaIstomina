@@ -4,6 +4,16 @@
 </h1>
 <h3 align="center" style="color: #4FC3F7;">Я системный аналитик</h3>
 
+<div align="center">
+  <a href="https://t.me/dasha_istomina">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
+
+
+
+
 **Обо мне:**  
 💻 Системный аналитик  
 🚀 Готова к сотрудничеству  
