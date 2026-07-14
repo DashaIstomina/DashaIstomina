@@ -5,11 +5,10 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-2e dl,f - jdcn hvcf
+Занимаюсь системным анализом 
+Готова к сотрудничеству 
+Мои проекты
 
-eld,l - lemmdfkrfv
-s,lec - jkbvhvrf
-wdd
 
 
 
