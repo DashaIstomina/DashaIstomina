@@ -5,9 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_istomina)
 
 
-Занимаюсь системным анализом 
-Готова к сотрудничеству 
-Мои проекты
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istomina200410@gmail.com)
 
 
 
