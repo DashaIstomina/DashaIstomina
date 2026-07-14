@@ -5,9 +5,10 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-2e dl,f
-eld,l
-s,lec
+2e dl,f - jdcn hvcf
+
+eld,l - lemmdfkrfv
+s,lec - jkbvhvrf
 wdd
 
 
