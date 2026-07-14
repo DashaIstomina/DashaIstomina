@@ -3,3 +3,5 @@
 <h3 align="center">Я системный аналитик </h3>
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+#26A5E4
