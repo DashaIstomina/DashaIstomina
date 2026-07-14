@@ -3,6 +3,7 @@
 <h3 align="center">Я системный аналитик </h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_istomina)
+[Написать мне](mailto:istomina200410@gmail.com)
 
 Занимаюсь системным анализом 
 Готова к сотрудничеству 
