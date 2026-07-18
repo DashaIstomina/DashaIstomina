@@ -19,8 +19,8 @@
 🚀 Готова к сотрудничеству  
 ## 📂 Мои проекты
 
-| Название | Описание | Стек технологий и инструментов | Ссылка |
-|----------|----------|-----------------|--------|
+| Название | Описание | Стек технологий и инструментов | 
+|----------|----------|-----------------| 
 | 1 проект: Микросервис для выдачи промокодов https://github.com/DashaIstomina/Servise.git | Разработка микросервиса для автоматизации выдачи промокодов и хранения информации на нем | BPMN 2.0, UML (Use Case, Sequence, ERD), Swagger/OpenAPI, SQL (PostgreSQL), Postman, PlantUML, Draw.io | 
 | 2 проект: интеграция CRM с MadeTask https://github.com/DashaIstomina/Integration-with-MadeTask.git | Данный проект описывает требования интеграции CRM и MadeTask для автоматизации управления задачами и проведения выплат исполнителям  | BPMN, UML (Use Case, Sequence), OpenApi, PlantUML, Draw.io  | 
 | 3 проект:  сервис аутентификации и авторизации  https://github.com/DashaIstomina/Authentication_authorization.git  | Разработка сервиса, чтобы обеспечить надежный вход в систему и точное соблюдение прав доступа для каждого пользователя   | UML, BPMN, SQL, RestApi |
