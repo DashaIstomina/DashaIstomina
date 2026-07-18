@@ -22,8 +22,8 @@
 | Название | Описание | Стек технологий и инструментов | Ссылка |
 |----------|----------|-----------------|--------|
 | 1 проект: Микросервис для выдачи промокодов | Разработка микросервиса для автоматизации выдачи промокодов и хранения информации на нем | BPMN 2.0, UML (Use Case, Sequence, ERD), Swagger/OpenAPI, SQL (PostgreSQL), Postman, PlantUML, Draw.io | https://github.com/DashaIstomina/Servise.git |
-| 2 проект: сервис аутентификации и авторизации | Разработка сервиса, чтобы обеспечить надежный вход в систему и точное соблюдение прав доступа для каждого пользователя  | UML, BPMN, SQL, RestApi | https://github.com/DashaIstomina/Authentication_authorization.git |
-| 3 проект: интеграция CRM с MadeTask | Разработка сервиса, чтобы обеспечить надежный вход в систему и точное соблюдение прав доступа для каждого пользователя  | UML, BPMN, RestApi | https://github.com/DashaIstomina/Integration-with-MadeTask.git |
+| 2 проект: интеграция CRM с MadeTask | Данный проект описывает требования интеграции CRM и MadeTask для автоматизации управления задачами и проведения выплат исполнителям  | BPMN, UML (Use Case, Sequence), OpenApi, PlantUML, Draw.io  | https://github.com/DashaIstomina/Integration-with-MadeTask.git  |
+| 3 проект:  сервис аутентификации и авторизации | Разработка сервиса, чтобы обеспечить надежный вход в систему и точное соблюдение прав доступа для каждого пользователя   | UML, BPMN, SQL, RestApi | https://github.com/DashaIstomina/Authentication_authorization.git  |
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-DashaIstomina)
